@@ -1,0 +1,9 @@
+#!/usr/bin/env perl
+
+use strict;
+use warnings;
+use lib 'module';
+use perl_utility::perl_utility;
+
+my $exit_code = perl_utility::perl_utility::main();
+exit($exit_code)
