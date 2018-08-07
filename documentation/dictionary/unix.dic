@@ -2,4 +2,4 @@ shellcheck
 OPTIND
 mkdir
 tmp
-ps
+pu
